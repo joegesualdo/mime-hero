@@ -8,7 +8,7 @@ $ npm install --save mime-hero
 
 ## Usage
 ```javascript
-var MimeHero = require("../index.js")
+var MimeHero = require("mime-hero")
 
 MimeHero.lookup("woowee.pdf")
 //=> 'application/pdf'
