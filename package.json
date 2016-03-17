@@ -1,0 +1,14 @@
+{
+  "name": "mime-hero",
+  "version": "0.0.1",
+  "description": "Content-type helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Gesualdo",
+  "license": "MIT",
+  "dependencies": {
+    "mime-db": "^1.22.0"
+  }
+}
