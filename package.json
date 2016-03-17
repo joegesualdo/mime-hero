@@ -1,6 +1,6 @@
 {
   "name": "mime-hero",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Content-type helpers",
   "main": "index.js",
   "scripts": {
